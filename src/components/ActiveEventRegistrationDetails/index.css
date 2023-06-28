@@ -1,0 +1,84 @@
+.initial-para {
+  color: #3a4b63;
+  font-family: Roboto;
+}
+
+.intitial-card {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  width: 50vw;
+}
+.register-card {
+  background-color: #ffffff;
+  height: 100vh;
+  width: 50vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 40px 0px 40px;
+}
+
+.register-img {
+  width: 300px;
+  margin-bottom: 30px;
+}
+
+.register-para {
+  color: #3a4b63;
+  font-family: Roboto;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.button {
+  background-color: #0967d2;
+  font-family: Roboto;
+  font-weight: 600;
+  color: #ffffff;
+  border-width: 0px;
+  border-radius: 6px;
+  padding: 10px 100px 10px 100px;
+}
+
+.completed-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 50vw;
+}
+
+.completed-img {
+  width: 100px;
+  margin-bottom: 20px;
+}
+
+.completed-para {
+  font-family: Roboto;
+  font-weight: 700;
+  color: #3a4b63;
+}
+
+.not-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 50vw;
+}
+
+.not-heading {
+  font-family: Roboto;
+  font-weight: 600;
+  color: #3a4b63;
+  margin-bottom: 10px;
+}
+
+.not-img {
+  width: 300px;
+  margin-bottom: 20px;
+}

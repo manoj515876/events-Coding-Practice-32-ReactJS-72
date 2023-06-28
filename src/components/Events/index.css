@@ -1,0 +1,26 @@
+* {
+  margin: 0px;
+}
+
+.app-container {
+  display: flex;
+}
+
+.app-card {
+  background-color: #475569;
+  padding: 10px;
+}
+.heading {
+  color: #f8fafc;
+  font-family: Roboto;
+  font-weight: 700;
+  padding-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.list-container {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+}

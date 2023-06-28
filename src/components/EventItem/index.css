@@ -1,0 +1,24 @@
+.event-button {
+  background-color: transparent;
+  border-width: 0px;
+  cursor: pointer;
+  outline-color: #2dd4bf;
+}
+
+.list-card {
+  margin-right: 20px;
+}
+
+.card-img {
+  width: 360px;
+  padding-top: 20px;
+}
+
+.event-heading {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.event-para {
+  color: #f8fafc;
+}
